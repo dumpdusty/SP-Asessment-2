@@ -1,0 +1,22 @@
+{
+  "name": "scratch_pay_assesment",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "API",
+    "test",
+    "QA Engineer",
+    "Assessment"
+  ],
+  "author": "Fazil Mammadov",
+  "dependencies": {
+    "chai": "^4.3.7",
+    "dotenv": "^16.0.3",
+    "mocha": "^10.2.0",
+    "supertest": "^6.3.3"
+  }
+}
