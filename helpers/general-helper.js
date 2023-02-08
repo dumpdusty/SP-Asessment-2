@@ -1,3 +1,5 @@
+// declare the function for login API call
+
 const request = require("supertest");
 
 function login(email, password){
